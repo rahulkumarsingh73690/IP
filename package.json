@@ -1,0 +1,28 @@
+{
+  "name": "ip_checker_pc",
+  "version": "1.0.0",
+  "description": "IP checker app for PC",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BM835/ip_checker_pc.git"
+  },
+  "keywords": [
+    "ip",
+    "get ip",
+    "ip checker"
+  ],
+  "author": "BM835",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/BM835/ip_checker_pc/issues"
+  },
+  "homepage": "https://github.com/BM835/ip_checker_pc#readme",
+  "dependencies": {
+    "electron": "^6.0.3",
+    "request": "^2.88.0"
+  }
+}

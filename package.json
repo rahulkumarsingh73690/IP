@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/BM835/ip_checker_pc#readme",
   "dependencies": {
-    "electron": "^6.0.3",
+    "electron": "^15.5.5",
     "request": "^2.88.0"
   }
 }
